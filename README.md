@@ -6,6 +6,6 @@ Python provides a set of libraries that can help data professionals, and Sklearn
 
 In this repository, we will have a set of educational tutorials on using Python's Sklearn and Pandas libraries. The tutorials covered in this repository are:
 
-+ [K-Means clustering](https://)
++ [K-Means clustering](https://github.com/AEEldin/K-means)
 + [k-Nearest Neighbors classification](https://)
 + [Decision-trees classification](https://)
